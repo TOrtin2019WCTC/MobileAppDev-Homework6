@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Homework6.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ButtonTextColor">Red</Color>
+            <Color x:Key="NormalTextColor">DarkOrange</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Tim's Homework"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="Start"
+               TextColor="{StaticResource NormalTextColor}"
+               FontSize="30"
+               FontAttributes="Bold"/>
+        <Button Text="Clock"
+                Clicked="ShowClockPage"
+                TextColor="{StaticResource ButtonTextColor}"
+                >
+        </Button>
+        <Button Text="Apex Legends List of Characters"
+                Clicked="ShowListOfApexCharactersPage" TextColor="{StaticResource ButtonTextColor}"
+                >
+
+        </Button>
+    </StackLayout>
+
+    
+</ContentPage>

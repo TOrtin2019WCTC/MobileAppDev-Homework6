@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Homework6" x:Class="Homework6.Page2">
+
+       <RelativeLayout HorizontalOptions="Center">
+  <Label Text="{Binding DateTime, StringFormat='{0:T}'}"
+           FontSize="40"
+            Margin="20"
+          >
+
+        <Label.BindingContext>
+            <local:ClockViewModel />
+        </Label.BindingContext>
+
+    </Label>
+            <Label Text="Current Time" FontSize="20" Margin="50" Padding="30" TextColor="{x:Static Color.Blue}"></Label>
+
+          
+           </RelativeLayout>
+      
+</ContentPage>

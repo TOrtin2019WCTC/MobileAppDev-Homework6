@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Homework6.Page3">
+  
+    <StackLayout>
+        <Label Text="Apex Legends"
+               TextColor="{x:Static Color.DarkBlue}"
+               FontSize="50"
+
+               >
+
+        </Label>
+    <TableView BackgroundColor="Green">
+       
+    <TableRoot>
+        
+        <TableSection Title="Wraith">
+           
+        </TableSection>
+        <TableSection Title="Bloodhound">
+
+        </TableSection>
+        <TableSection Title="Octane">
+
+        </TableSection>
+    </TableRoot>
+</TableView>
+        </StackLayout>
+       
+
+       
+
+   
+</ContentPage>

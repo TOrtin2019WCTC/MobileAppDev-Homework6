@@ -1,0 +1,15 @@
+/Users/tim/Desktop/Repos/Homework6/Homework6/bin/Debug/netstandard2.0/Homework6.deps.json
+/Users/tim/Desktop/Repos/Homework6/Homework6/bin/Debug/netstandard2.0/Homework6.dll
+/Users/tim/Desktop/Repos/Homework6/Homework6/bin/Debug/netstandard2.0/ref/Homework6.dll
+/Users/tim/Desktop/Repos/Homework6/Homework6/bin/Debug/netstandard2.0/Homework6.pdb
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.csprojAssemblyReference.cache
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Page2.xaml.g.cs
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.AssemblyInfoInputs.cache
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.AssemblyInfo.cs
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.dll
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/ref/Homework6.dll
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.pdb
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Page3.xaml.g.cs
