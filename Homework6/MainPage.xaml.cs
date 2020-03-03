@@ -29,5 +29,10 @@ namespace Homework6
         {
             await Navigation.PushAsync(new Page3());
         }
+
+        private async void ShowButtonChangePage(Object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page4());
+        }
     }
 }

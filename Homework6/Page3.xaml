@@ -22,6 +22,12 @@
         <TableSection Title="Octane">
 
         </TableSection>
+        <TableSection Title="Lifeline">
+
+        </TableSection>
+        <TableSection Title="Pathfinder">
+
+        </TableSection>
     </TableRoot>
 </TableView>
         </StackLayout>

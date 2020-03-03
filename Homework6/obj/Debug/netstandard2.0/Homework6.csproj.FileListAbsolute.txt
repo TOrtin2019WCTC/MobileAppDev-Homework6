@@ -13,3 +13,4 @@
 /Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/ref/Homework6.dll
 /Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Homework6.pdb
 /Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Page3.xaml.g.cs
+/Users/tim/Desktop/Repos/Homework6/Homework6/obj/Debug/netstandard2.0/Page4.xaml.g.cs

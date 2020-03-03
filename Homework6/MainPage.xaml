@@ -24,6 +24,11 @@
                 >
 
         </Button>
+            <Button Text="Text Color Change Activity"
+                Clicked="ShowButtonChangePage" TextColor="{StaticResource ButtonTextColor}"
+                >
+
+        </Button>
     </StackLayout>
 
     
